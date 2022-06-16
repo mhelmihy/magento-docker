@@ -1,4 +1,4 @@
-# magento-docker-compose
+# magento-docker
 
 ## Installation Guide
 1. Clone the magento-docker-compose repository by executing the following command in the working directory:<br />
